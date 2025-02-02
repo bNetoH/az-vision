@@ -4,6 +4,12 @@
 
 Este projeto demonstra como utilizar o serviço Azure AI Vision para extrair texto de imagens. O serviço oferece algoritmos avançados para processar imagens e retornar informações, permitindo a extração de texto impresso e/ou manuscrito de imagens e documentos.
 
+## Casos de uso:
+- Departamento de RH e Pessoal: extrair informações sobre afastamento médico de seus colaboradores. Automatização do processo de leitura e extração das informações.
+- Departamento de RH e Pessoal: extrair informações dos CV's dos candidatos à vagas.
+- Extração de informações de valor de notas de campo. Exemplo: colaborador tem que usar papel para coletar informações para a organização.
+- Departamento Financeiro: Compesnação de Despesas. Colaborador apresenta despesa para ser reembolsado.
+
 ## Pré-requisitos
 
 - Assinatura ativa do Microsoft Azure. [https://azure.microsoft.com](https://azure.microsoft.com).
